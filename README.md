@@ -68,7 +68,7 @@ Here's one I applied to a test image:
 * After I finished all the pipeline steps and setup, I ran the program. Here is a result of what the image looks like:
 
 
-[Lane detection on a curved road](https://github.com/vikasnataraja/Advanced-Lane-Finding-for-Curved-Roads/blob/master/output_images/lane_detect.PNG)
+![Lane detection on a curved road](https://github.com/vikasnataraja/Advanced-Lane-Finding-for-Curved-Roads/blob/master/output_images/lane_detect.PNG)
 
 ---
 
